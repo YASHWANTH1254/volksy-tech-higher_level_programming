@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/pythoni3
 def safe_print_division(a, b):
     try:
         div = a / b
