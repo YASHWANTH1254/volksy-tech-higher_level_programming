@@ -1,7 +1,10 @@
 #!/usr/bin/python3
     '''this is class'''
+
+
 class Square:
-    """Represent a square."""
+    '''Represent a square.'''
+
     def __init__(self, size=0):
       ''' the square madule'''
 
