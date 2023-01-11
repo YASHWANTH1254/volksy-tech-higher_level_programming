@@ -11,6 +11,8 @@ class Square:
         """Initialize a new square."""
 
 
+
+
         self.size = size
 
     @property
