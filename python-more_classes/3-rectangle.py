@@ -3,7 +3,7 @@
 
 
 class Rectangle:
-    """Takes in args for width and height of a rectangle, and contains methods."""
+    """Takes Rectangle."""
     def __init__(self, width=0, height=0):
         # attribute assigment here engages setters defined below
         self.width = width
