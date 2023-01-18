@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 """the adding list"""
 import sys
 
