@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/python3
 """
 rectangle module that defines the Rectangle class
