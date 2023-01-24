@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/pythoni3
 """ Class that defines a student """
 
 
