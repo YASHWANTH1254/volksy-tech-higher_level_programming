@@ -10,4 +10,4 @@ if __name__ == "__main__":
     c = db.cursor()
     c.execute("SELECT name from cities where state_id=3;")
     for i in c:
-        print(i[0])
+        print(i)
