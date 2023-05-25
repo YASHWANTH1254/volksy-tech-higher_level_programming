@@ -1,6 +1,9 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 # base.py
 # Brennan D Baraban <375@holbertonschool.com>
+=======
+>>>>>>> b13e1214ae6256f67a4bd919aef7f9bc4bfe6039
 """Defines a base model class."""
 import json
 import csv
@@ -8,11 +11,15 @@ import turtle
 
 
 class Base:
+<<<<<<< HEAD
     """Represent the base model.
     Represents the "base" for all other classes in project 0x0C*.
     Attributes:
         __nb_objects (int): The number of instantiated Bases.
     """
+=======
+    """Represent the base model."""
+>>>>>>> b13e1214ae6256f67a4bd919aef7f9bc4bfe6039
 
     __nb_objects = 0
 
